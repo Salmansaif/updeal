@@ -1,0 +1,8 @@
+#Notes
+
+#pipenv
+pip install --user pipenv
+-> Adding path: C:\Users\Username\AppData\Roaming\Python36\Scripts
+pipenv --python 3.7 install django==2.2
+
+pipenv install django==2.0.7

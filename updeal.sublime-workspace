@@ -1,0 +1,1148 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"widget",
+				"widget_services"
+			],
+			[
+				"multi",
+				"multiGrpSel"
+			],
+			[
+				"mult",
+				"multiGrpSel"
+			],
+			[
+				"mul",
+				"multiGrpSel"
+			],
+			[
+				"appoint",
+				"appointment-form"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"text-s",
+				"text-transform\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"no",
+				"no-print"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"col-4"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"vendo",
+				"vendor_form"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"cente",
+				"justify-content-center"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"t",
+				"text-bottom\tvertical-align"
+			],
+			[
+				"ce",
+				"text-center"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"pd",
+				"pd-top-108"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"con",
+				"align-content\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"dump",
+				"dump_data"
+			],
+			[
+				"json",
+				"json_obj"
+			],
+			[
+				"it",
+				"itemBox"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"left",
+				"padding-left\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"mo",
+				"mobile-menu"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"about",
+				"about-us"
+			],
+			[
+				"our",
+				"our-journey"
+			],
+			[
+				"ques",
+				"question_text"
+			],
+			[
+				"sugg",
+				"suggestions"
+			],
+			[
+				"sug",
+				"suggestions"
+			],
+			[
+				"sear",
+				"word_search"
+			],
+			[
+				"san",
+				"sandwich"
+			],
+			[
+				"sand",
+				"sandwich_orders"
+			],
+			[
+				"to",
+				"topping"
+			],
+			[
+				"fav",
+				"fav_fruits"
+			],
+			[
+				"fa",
+				"fav_fruits"
+			],
+			[
+				"vero",
+				"verbose_name_plural"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"mail",
+				"mailing_list"
+			],
+			[
+				"abou",
+				"about_page"
+			],
+			[
+				"gue",
+				"guessed"
+			],
+			[
+				"print",
+				"print_outcome"
+			],
+			[
+				"conten",
+				"content_object"
+			],
+			[
+				"produc",
+				"product-raw"
+			],
+			[
+				"ad",
+				"address_line_2"
+			],
+			[
+				"mb",
+				"mb-30"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"product",
+				"productID"
+			],
+			[
+				"pro",
+				"productID"
+			],
+			[
+				"cu",
+				"currentUrl"
+			],
+			[
+				"regis",
+				"register_url"
+			],
+			[
+				"ho",
+				"home_url"
+			],
+			[
+				"Register",
+				"RegisterForm"
+			],
+			[
+				"ful",
+				"full_name"
+			],
+			[
+				"UserAd",
+				"UserAdminCreationForm"
+			],
+			[
+				"contactF",
+				"contactFormSubmitbtnTxt"
+			],
+			[
+				"cont",
+				"contactFormSubmitbtnTxt"
+			],
+			[
+				"contact",
+				"contactFormSubmitbtn"
+			],
+			[
+				"conta",
+				"contactFromData"
+			],
+			[
+				"new",
+				"new_or_get"
+			],
+			[
+				"refer",
+				"refreshCartMethod"
+			],
+			[
+				"nav",
+				"navbarCount"
+			],
+			[
+				"evn",
+				"event"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"des",
+				"descriptionLinks"
+			],
+			[
+				"desc",
+				"descriptionLinks"
+			],
+			[
+				"phone",
+				"phone_parent_link"
+			],
+			[
+				"prod",
+				"product_var_price"
+			],
+			[
+				"pos",
+				"postal_code"
+			],
+			[
+				"action",
+				"action_url"
+			],
+			[
+				"car",
+				"cart_items_count"
+			],
+			[
+				"bil",
+				"billing_profile"
+			],
+			[
+				"user",
+				"user_obj"
+			],
+			[
+				"Billl",
+				"BillingProfileManager"
+			],
+			[
+				"bill",
+				"billing_profile_created"
+			],
+			[
+				"guest_email",
+				"guest_email_obj"
+			],
+			[
+				"bii",
+				"billing_profile"
+			],
+			[
+				"billing",
+				"billing_profile"
+			],
+			[
+				"guest",
+				"guest_email_obj"
+			],
+			[
+				"gu",
+				"guest_email_id"
+			],
+			[
+				"redi",
+				"redirect_path"
+			],
+			[
+				"post_",
+				"post_save_order"
+			],
+			[
+				"cart_",
+				"cart_obj"
+			],
+			[
+				"Order",
+				"ORDER_STATUS_CHOICES"
+			],
+			[
+				"cart",
+				"cart_obj"
+			],
+			[
+				"produ",
+				"product_obj"
+			],
+			[
+				"input",
+				"input-group-btn"
+			],
+			[
+				"get_",
+				"get_context_data"
+			],
+			[
+				"Pro",
+				"ProductImage"
+			],
+			[
+				"Prodcut",
+				"ProductDetailView"
+			],
+			[
+				"ge",
+				"get_absolute_url"
+			],
+			[
+				"g",
+				"get_image_url"
+			],
+			[
+				"pas",
+				"password_confirm"
+			],
+			[
+				"Con",
+				"ContactForm"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"_",
+				"__str__"
+			],
+			[
+				"Va",
+				"VariationAdmin"
+			],
+			[
+				"var",
+				"variations"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"home",
+				"home_page"
+			],
+			[
+				"htm",
+				"html_"
+			],
+			[
+				"sor",
+				"sorted_items"
+			],
+			[
+				"amt",
+				"amt_water"
+			],
+			[
+				"pre",
+				"process_information"
+			],
+			[
+				"Bo",
+				"Boeing777"
+			],
+			[
+				"A",
+				"Aircraft"
+			],
+			[
+				"mak",
+				"make_boarding_cards"
+			],
+			[
+				"for",
+				"format"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Clients/EPS/Sites/nishabeautysalon.com/src-v2.1/index.html",
+			"settings":
+			{
+				"buffer_size": 10340,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Clients/EPS/Sites/nishabeautysalon.com/src-v2.1/css/style.css",
+			"settings":
+			{
+				"buffer_size": 25475,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Clients/EPS/Sites/nishabeautysalon.com/src-v2.1/js/script.js",
+			"settings":
+			{
+				"buffer_size": 519,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "// When the user scrolls the page, execute myFunct"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 207.0,
+		"history":
+		[
+			"exit",
+			"exit()",
+			"import time_mod",
+			"run",
+			"os.getcwd()",
+			"import os",
+			"import time_mod",
+			"import math",
+			"ls",
+			"yes",
+			"python recaman.py rec.txt 100",
+			"from airtravel import *",
+			"os.getcwd()",
+			"import os",
+			"Aircraft",
+			"import airtravel",
+			"whoami",
+			"f",
+			"python airtravel.py",
+			"print(\"Hello! This is deadsec\")",
+			"exit()",
+			"print(\"Hello! This is deadsec\")",
+			"import this",
+			"import nltk",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/salmansaif/Documents/workspace/updeal"
+	],
+	"file_history":
+	[
+		"/D/Clients/EPS/Sites/nishabeautysalon.com/src-v2.1/scss/_header.scss",
+		"/D/Clients/EPS/Sites/nishabeautysalon.com/src-v2.1/scss/style.scss",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/terms-of-use.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/services.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/projects.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/privacy-policy.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/machines-and-equipments.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/contact.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/clientele.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/building-and-housing-construction.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/about-us.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/index.html",
+		"/C/Users/salmansaif/Downloads/Ftp ftp.xml",
+		"/C/xampp/htdocs/src-v2.1/package.json",
+		"/C/xampp/htdocs/src-v2.1/index.html",
+		"/C/xampp/htdocs/src-v2.1/about.html",
+		"/C/xampp/htdocs/src-v2.1/appointment.html",
+		"/C/xampp/htdocs/src-v2.1/blog.html",
+		"/C/xampp/htdocs/src-v2.1/contact.html",
+		"/C/xampp/htdocs/src-v2.1/hair.html",
+		"/C/xampp/htdocs/src-v2.1/makeup.html",
+		"/C/xampp/htdocs/src-v2.1/packages.html",
+		"/C/xampp/htdocs/src-v2.1/portfolio.html",
+		"/C/xampp/htdocs/src-v2.1/service.html",
+		"/C/xampp/htdocs/src-v2.1/single-blog.html",
+		"/C/xampp/htdocs/src-v2.1/skin.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2.1/index.html",
+		"/C/Users/salmansaif/Downloads/Compressed/Searchable-Multi-select-jQuery-Dropdown/Searchable-Multi-select-jQuery-Dropdown/index.html",
+		"/C/xampp/htdocs/src-v2.1/send-mail.php",
+		"/D/Clients/EPS/Sites/nisha/src-v2.1/appointment.html",
+		"/C/Users/salmansaif/Downloads/Compressed/Searchable-Multi-select-jQuery-Dropdown/Searchable-Multi-select-jQuery-Dropdown/mock.js",
+		"/C/Users/salmansaif/Downloads/Compressed/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker3.min.css",
+		"/C/Users/salmansaif/Downloads/Compressed/bootstrap-datepicker-1.9.0-dist/css/bootstrap-datepicker.css",
+		"/D/Clients/EPS/Sites/nisha/src-v2.1/css/bootstrap.min.css",
+		"/D/Clients/EPS/Sites/nisha/src-v2.1/js/jquery.min.js",
+		"/D/Clients/EPS/Sites/nisha/src-v2.1/css/style.css",
+		"/D/Clients/EPS/Sites/nisha/src-v2.1/hair.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2.1/skin.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2.1/makeup.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/index.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/xhtml/shortcode-images-effects.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/xhtml/construction.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/our-services.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/xhtml/about-1.html",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/css/style.css",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/script/mailchamp.php",
+		"/D/Clients/EPS/Sites/bestwayenterprises.pk/src/script/contact.php",
+		"/C/Users/salmansaif/Downloads/Compressed/sliderrev-548/codecanyon-2580848-slider-revolution-responsive-jquery-plugin/examples/Premium/dark-fullsite.html",
+		"/D/Construct/construct/constructzilla.dexignzone.com/xhtml/index.html",
+		"/D/Construct/construct/constructzilla.dexignzone.com/xhtml/js/combining.js",
+		"/D/Clients/EPS/Sites/nisha/src-v2/send-mail.php",
+		"/C/Users/salmansaif/Downloads/style.css",
+		"/D/Construct/construct/constructzilla.dexignzone.com/xhtml/css/style.min.css",
+		"/D/Construct/construct/constructzilla.dexignzone.com/xhtml/js/rev.slider.js",
+		"/D/Clients/EPS/Sites/nisha/src-v2/try.php",
+		"/D/Clients/EPS/Sites/nisha/src-v2/appointment.html",
+		"/C/Users/salmansaif/Downloads/PEAR-1.10.12/PEAR-1.10.12/INSTALL",
+		"/C/Users/salmansaif/Downloads/Mail-1.4.1/Mail-1.4.1/Mail.php",
+		"/D/Clients/EPS/Sites/nisha/src-v2/php.ini",
+		"/C/xampp/htdocs/ia/wp-config.php",
+		"/C/Users/salmansaif/Downloads/Mail-1.4.1/Mail-1.4.1/Mail/mail.php",
+		"/C/Users/salmansaif/Downloads/Mail-1.4.1/Mail-1.4.1/Mail/smtp.php",
+		"/D/Clients/EPS/Sites/nisha/src-v2/mail.php",
+		"/C/Users/salmansaif/Downloads/Mail-1.4.1/package.xml",
+		"/C/Users/salmansaif/Downloads/Mail-1.4.1/package.sig",
+		"/D/Clients/EPS/Sites/nisha/src-v2/portfolio.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/contact.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/hair.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/single-blog.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/packages.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/blog.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/about.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/makeup.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/skin.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/scss/_service.scss",
+		"/D/Clients/EPS/Sites/nisha/src-v2/css/style.css",
+		"/D/Clients/EPS/Sites/nisha/src-v2/service.html",
+		"/D/Clients/EPS/Sites/nisha/src/about.html",
+		"/D/Clients/EPS/Sites/nisha/src-v2/scss/style.scss",
+		"/D/Clients/EPS/Sites/ymobile/data/themeforest-R2D8CCwl-multikart-responsive-angular-ecommerce-template/Multikart_angular_All_in_one/backend/src/app/components/sales/orders/orders.component.html",
+		"/D/Clients/EPS/Sites/ymobile/data/themeforest-R2D8CCwl-multikart-responsive-angular-ecommerce-template/Multikart_angular_All_in_one/frontend/src/app/shared/header/widgets/left-menu/left-menu.component.html",
+		"/C/Users/salmansaif/Documents/eps/y-mobile-website/package.json",
+		"/D/Clients/EPS/Sites/ymobile/data/themeforest-R2D8CCwl-multikart-responsive-angular-ecommerce-template/Multikart_angular_All_in_one/frontend/src/app/shared/header/left-sidebar/left-sidebar.component.html",
+		"/D/Clients/EPS/Sites/ymobile/email/email-order-success-two.html",
+		"/C/Users/salmansaif/Documents/eps/y-mobile-website/README.md",
+		"/C/Users/salmansaif/Documents/eps/y-mobile-website/tsconfig.json",
+		"/C/Users/salmansaif/Desktop/q2.pl",
+		"/C/Users/salmansaif/Desktop/q1.pl",
+		"/C/Users/salmansaif/.ssh/id_rsa",
+		"/C/Users/salmansaif/.ssh/id_rsa.pub",
+		"/C/Users/salmansaif/.ssh/known_hosts",
+		"/D/Clients/EPS/Sites/picnicbooking.com/v1/index.html",
+		"/D/Clients/EPS/Sites/picnicbooking.com/v1/vendor.html",
+		"/D/Clients/EPS/Sites/picnicbooking.com/v1/about.html",
+		"/D/Clients/EPS/Sites/picnicbooking.com/v1/assets/css/style.css",
+		"/D/Clients/EPS/Sites/picnicbooking.com/v1/contact-form-thank-you.html",
+		"/D/Clients/EPS/Sites/ymobile/v2/index.html",
+		"/D/Clients/EPS/Sites/ymobile/v2/invoice.html",
+		"/D/Clients/EPS/Sites/ymobile/v2/print_invoice.js",
+		"/D/Clients/EPS/Sites/ymobile/email/Confirm Email.html",
+		"/D/Clients/EPS/Sites/ymobile/invoice/invoice.html",
+		"/D/Clients/EPS/Sites/picnicbooking.com/v1/form-handler.php",
+		"/C/Users/salmansaif/Downloads/Compressed/php-email-contact-form/contact-form.html",
+		"/C/Users/salmansaif/Downloads/Compressed/php-email-contact-form/contact-form-handler.php",
+		"/D/Clients/EPS/Sites/picnicbooking.com/v1/assets/css/responsive.css",
+		"/D/Clients/EPS/Sites/picnicbooking.com/v1/assets/css/slick.css",
+		"/D/Clients/EPS/Sites/picnic booking/v1/index.html",
+		"/D/Clients/EPS/Sites/picnic booking/v1/about.html",
+		"/D/Clients/EPS/Sites/picnic booking/v1/assets/css/style.css",
+		"/D/Clients/EPS/Sites/picnic booking/v1/vendor.html",
+		"/D/Clients/EPS/Sites/picnic booking/viaje/contact.html",
+		"/D/Clients/EPS/Sites/picnic booking/viaje/blog-details.html",
+		"/D/Clients/EPS/Sites/picnic booking/viaje/index.html",
+		"/D/Clients/EPS/Sites/picnic booking/viaje/about.html",
+		"/D/Clients/EPS/Sites/picnic booking/viaje/faq.html",
+		"/D/Clients/EPS/Sites/picnic booking/viaje/home02.html",
+		"/D/EPS/Sites/nisha/src-v2/mail.php",
+		"/D/EPS/Sites/nisha/src-v2/appointment.html",
+		"/D/EPS/Sites/nisha/src-v2/php.ini",
+		"/D/EPS/Sites/nisha/src-v2/contact.html",
+		"/D/EPS/Sites/ymobile/email/email-order-success.html",
+		"/D/EPS/Sites/ymobile/email/email-order-success-two.html",
+		"/D/EPS/Sites/nisha/src-v2/index.html",
+		"/D/EPS/Sites/nisha/src-v2/about.html",
+		"/D/EPS/Sites/nisha/src-v2/service.html",
+		"/D/EPS/Sites/nisha/src-v2/packages.html",
+		"/D/EPS/Sites/nisha/src-v2/portfolio.html",
+		"/D/EPS/Sites/nisha/src-v2/style.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+			"D:\\Clients\\EPS\\Sites\\nisha\\src",
+			"C:\\Users\\DedSec\\Documents\\workspace\\explorify\\src",
+			"C:\\Users\\Mani\\Documents\\workspace\\explorify\\src\\",
+			"C:\\Users\\Mani\\Documents\\workspace\\explorify",
+			"C:\\Users\\Mani\\Documents\\workspace\\ecommerce2\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav",
+			"classynav",
+			"Header CSS",
+			"07.0",
+			"breakpoint-off",
+			"classy-nav-container",
+			"justify-content-between",
+			"nav",
+			"classy-navbar",
+			"akameNav",
+			"sticky",
+			"</option>",
+			"> ",
+			"<option value=\"",
+			"dropdown-sin-2",
+			"dropdown-mul-1",
+			"dropdown-sin-2",
+			"sin-1",
+			"mul-1",
+			"sin-1",
+			"category",
+			"src",
+			"bootstrap",
+			"import",
+			"Effect 2",
+			"all ser",
+			"all",
+			"values",
+			"infrast",
+			"FAQ",
+			"about us",
+			"architecture",
+			"jquery",
+			"../..",
+			"../../revolution/js/extensions",
+			"slider",
+			"PEAR",
+			"                                    <li><a href=\"./index.html\">Home</a></li>\n                                    <li class=\"active\"><a href=\"./service.html\">Services</a></li>\n                                    <li><a href=\"./packages.html\">Packages</a></li>\n                                    <li><a href=\"./portfolio.html\">Portfolio</a></li>\n                                    <li><a href=\"./about.html\">About Us</a></li>\n                                    <li><a href=\"./contact.html\">Contact</a></li>",
+			"<li><a href=\"./index.html\">Home</a></li>\n                                    <li class=\"active\"><a href=\"./service.html\">Services</a></li>\n                                    <li><a href=\"./packages.html\">Packages</a></li>\n                                    <li><a href=\"./portfolio.html\">Portfolio</a></li>\n                                    <li><a href=\"./about.html\">About Us</a></li>\n                                    <li><a href=\"./contact.html\">Contact</a></li>",
+			"service-text",
+			"shipping",
+			"Playfair Display",
+			"Typography",
+			"class",
+			"<p",
+			"p",
+			"h2",
+			"h4",
+			"h5",
+			"text-center",
+			"main-bg-light",
+			"title",
+			"footer-social-icon",
+			"order-detail",
+			"info",
+			"fname",
+			"navbar-area",
+			"nav-container",
+			"navbar-collapse",
+			"logo-wrapper",
+			"desktop-logo",
+			"nav-container",
+			"thumb",
+			"=\"\">",
+			"thumb",
+			"col-lg-4 col-md-3 col-sm-1",
+			"col-lg-4 col-sm-1",
+			"6",
+			"img-responsive",
+			"img",
+			"col-md-3 col-sm-6",
+			"logo",
+			"tp-lang",
+			".navbar-nav",
+			"992",
+			"991",
+			".desktop-logo",
+			"Nav Bar",
+			"Globals",
+			".single-input-wrap.style-two input",
+			"single-input-wrap",
+			"form",
+			"contact",
+			"col-lg-3 col-sm-1",
+			"col-lg-2 col-sm-1",
+			"text-col",
+			"text-left",
+			"plus-box",
+			"img-col",
+			"apps-header-image",
+			"btn-wrapper",
+			"bg-grey",
+			"bg-red",
+			"apps-available",
+			"text-col",
+			"col-sm-3",
+			"3",
+			"Globals",
+			"banner-title",
+			"120px",
+			"png",
+			"4",
+			"main-title",
+			"youtube-bg",
+			"video-banner-area",
+			"video-banner-content",
+			"banner-title",
+			"Nav Bar",
+			"15px",
+			"50",
+			"70",
+			"14px",
+			"m-b-5",
+			"Lato",
+			"btn-primary",
+			"jpeg",
+			"saloon",
+			"facebook",
+			"icon-bar",
+			"Playfair Display",
+			"font-family",
+			"font-playfair-display",
+			"autoplay",
+			"video",
+			"font-awesome.min.css",
+			"JANSSEN FACIALS & TREATMENTS",
+			"<tr><td>",
+			"</span></p>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\", groupName: 'Skin Care', \"groupId\": 2},",
+			", \"id\": \"",
+			"\", \"id\": \"",
+			"{\"name\":\"",
+			"plugins",
+			"plugins/revolution/js/extensions",
+			"<li class=\"active\"><a href=\"./index.html\">Home</a></li>\n                                    <li><a href=\"#\">Services</a>\n                                    \t<ul class=\"dropdown\">\n                                    \t\t<li><a href=\"./hair.html\">Hair Cuts & Style</a></li>\n                                    \t\t<li><a href=\"./skin.html\">Skin Care</a></li>\n                                    \t\t<li><a href=\"./makeup.html\">Makeup</a></li>\n                                    \t</ul>\n                                    </li>\n                                    <li><a href=\"./packages.html\">Packages</a></li>\n                                    <li><a href=\"./portfolio.html\">Portfolio</a></li>\n                                    <li><a href=\"./about.html\">About Us</a></li>\n                                    <li><a href=\"./contact.html\">Contact</a></li>",
+			"Raleway",
+			"salon",
+			"Rs.",
+			"#b30185",
+			"",
+			"png",
+			"#751f18",
+			"",
+			"<li><a href=\"#\">+92 310 YMGroup (9647687)</a></li>",
+			"+92-311-xxxxx",
+			"071c68",
+			"",
+			"print(",
+			"{{ request.build_absolute_uri }}",
+			"print(",
+			"ecommerce2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\salmansaif\\Documents\\workspace\\updeal"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Clients/EPS/Sites/nishabeautysalon.com/src-v2.1/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2904,
+								2907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 625.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Clients/EPS/Sites/nishabeautysalon.com/src-v2.1/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25205,
+								25205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 17189.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Clients/EPS/Sites/nishabeautysalon.com/src-v2.1/js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// When the user scrolls the page, execute myFunct",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 328.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
