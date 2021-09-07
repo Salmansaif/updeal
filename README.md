@@ -1,2 +1,4 @@
 # updeal
-A daily deals app work in progress app, would love to see contributions.
+A daily deals app built with django.
+
+> Work in progress, would love to see contributions.
